@@ -1,0 +1,1 @@
+java -jar out/artifacts/quantcast_coding_task_jar/quantcast_coding_task.jar $1 $2 $3
